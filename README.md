@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharika Khaton!
+### 🎓 Sophomore at Barnard College of Columbia University, studying Computer Science
+### 🔭 Aspiring Software Engineer passionate about UI/UX, Frontend Development, and Product Management. 
 
-<!--
-**skhaton/skhaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about app development and website building, and I love art–whether that's painting, graphic designing, and DIY projects. The intersection between technology and art intrigues me. I hope I can continue to build new solutions for an easier and more affordable life using her creativity in the future. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!) Currently, I'm working on building an AI-powered dashboard that analyzes customer conversations to idenitufy trending banking products and sentiment patterns. I’m looking to leverage and grow my skills in an internship where I contribute to exciting projects and learn from industry professionals–got any leads? Let me know!
 
-Here are some ideas to get you started:
+## 🎯 Featured Project: Sentiment Analysis for American Express (*link your project README)
+- What We Did: 
+- Tools: Python, spaCy, scikit-learn
+- Result: 
+Curious? See the full project here (*link your project README).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack:
+- Languages: Python, Java, C
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+- Tools: Jupyter Notebooks, Google Colab, Git, GitHub, Xcode
+
+## 📫 How to Reach Me:
+- Email: Sharika Khaton
+- LinkedIn: www.linkedin.com/in/sharikakhaton
+
+## ✨ Fun Fact:
+I know about 6 languages: English, Bengali, Hindi, Urdu, Spanish, and Arabic
